@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.683075b8.chunk.css",
+    "main.js": "/static/js/main.cce1a095.chunk.js",
+    "main.js.map": "/static/js/main.cce1a095.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cea588d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cea588d5.js.map",
+    "static/js/2.1e32424e.chunk.js": "/static/js/2.1e32424e.chunk.js",
+    "static/js/2.1e32424e.chunk.js.map": "/static/js/2.1e32424e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f9b2968c7088a26fa84ae74198924093.js": "/precache-manifest.f9b2968c7088a26fa84ae74198924093.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.683075b8.chunk.css.map": "/static/css/main.683075b8.chunk.css.map",
+    "static/js/2.1e32424e.chunk.js.LICENSE": "/static/js/2.1e32424e.chunk.js.LICENSE",
+    "static/media/App.css": "/static/media/baseball04.71f1b5c9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cea588d5.js",
+    "static/js/2.1e32424e.chunk.js",
+    "static/css/main.683075b8.chunk.css",
+    "static/js/main.cce1a095.chunk.js"
+  ]
+}
