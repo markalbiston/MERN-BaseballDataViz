@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import axios from 'axios';
-import {ResponsiveContainer, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, ComposedChart, Area } from 'recharts';
+import {Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Area, BarChart } from 'recharts';
 import Button from '@material-ui/core/Button';
 
 export default (props) => {
@@ -87,9 +87,9 @@ export default (props) => {
 
             {loaded &&
             // <ResponsiveContainer width="97%" height={400} className="center">
-            <ComposedChart 
+            <BarChart 
             className="center"
-            width={1220}
+            width={1250}
             height={400}
             data={data}
             margin={{
@@ -110,12 +110,12 @@ export default (props) => {
                     }
                 </Bar>
                 {/* <Line type="monotone" dataKey="league_avg" stroke="#ff7300" /> */}
-            </ComposedChart>
+            </BarChart>
             // </ResponsiveContainer>
             }
             <Button variant="contained" onClick={onClickSortByWins}>Sort By Total Wins</Button>
             <Button variant="contained" onClick={onClickSortByDivision}>Sort By Division</Button>
-            <Button variant="contained" onClick={onClickSortByColor}>Sort By Hex Color Code</Button>
+            <Button variant="contained" onClick={onClickSortByColor}>Sort By Team Color</Button>
 
         </div>
     )

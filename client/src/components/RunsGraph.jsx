@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import axios from 'axios';
-import {ResponsiveContainer, BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, ReferenceLine } from 'recharts';
+import {BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, ReferenceLine } from 'recharts';
 import DefaultTooltipContent from 'recharts/lib/component/DefaultTooltipContent';
 import Button from '@material-ui/core/Button';
 
@@ -27,7 +27,6 @@ export default (props) => {
     const data =[];
     
     if(allTeams){
-        // console.log("HERHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH")
         if(sortByRunsScored === true){
             allTeams.sort((a,b) => (a.offense.runs_scored < b.offense.runs_scored) ? 1 : (a.offense.runs_scored === b.offense.runs_scored) ? ((a.city > b.city) ? 1 : -1) : -1).forEach(team => {
                 data.push({name: `${team.abbr}`, runs_scored: `${team.offense.runs_scored}`, runs_allowed: `-${team.defense.runs_allowed}`, differential: `${team.offense.runs_scored - team.defense.runs_allowed}`} );
@@ -133,7 +132,7 @@ export default (props) => {
             // <ResponsiveContainer width="94%" height={400} className="center">
             <BarChart
             className="center"
-            width={1220}
+            width={1250}
             height={400}
             data={data}
             stackOffset="sign"
@@ -168,7 +167,7 @@ export default (props) => {
             <Button variant="contained" onClick={onClickSortByRunsScored}>Sort By Runs Scored</Button>
             <Button variant="contained" onClick={onClickSortByRunsAllowed}>Sort By Runs Allowed</Button>
             <Button variant="contained" onClick={onClickSortByDivision}>Sort By Division</Button>
-            <Button variant="contained" onClick={onClickSortByColor}>Sort By Hex Color Code</Button>
+            <Button variant="contained" onClick={onClickSortByColor}>Sort By Team Color</Button>
         </div>
     )
 }
