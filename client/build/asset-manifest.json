@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.683075b8.chunk.css",
-    "main.js": "/static/js/main.cce1a095.chunk.js",
-    "main.js.map": "/static/js/main.cce1a095.chunk.js.map",
+    "main.js": "/static/js/main.7e763f4b.chunk.js",
+    "main.js.map": "/static/js/main.7e763f4b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cea588d5.js",
     "runtime-main.js.map": "/static/js/runtime-main.cea588d5.js.map",
-    "static/js/2.1e32424e.chunk.js": "/static/js/2.1e32424e.chunk.js",
-    "static/js/2.1e32424e.chunk.js.map": "/static/js/2.1e32424e.chunk.js.map",
+    "static/js/2.9982dfd5.chunk.js": "/static/js/2.9982dfd5.chunk.js",
+    "static/js/2.9982dfd5.chunk.js.map": "/static/js/2.9982dfd5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f9b2968c7088a26fa84ae74198924093.js": "/precache-manifest.f9b2968c7088a26fa84ae74198924093.js",
+    "precache-manifest.b112f4b3de4e0dc77521eb13ed4f1063.js": "/precache-manifest.b112f4b3de4e0dc77521eb13ed4f1063.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.683075b8.chunk.css.map": "/static/css/main.683075b8.chunk.css.map",
-    "static/js/2.1e32424e.chunk.js.LICENSE": "/static/js/2.1e32424e.chunk.js.LICENSE",
+    "static/js/2.9982dfd5.chunk.js.LICENSE": "/static/js/2.9982dfd5.chunk.js.LICENSE",
     "static/media/App.css": "/static/media/baseball04.71f1b5c9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cea588d5.js",
-    "static/js/2.1e32424e.chunk.js",
+    "static/js/2.9982dfd5.chunk.js",
     "static/css/main.683075b8.chunk.css",
-    "static/js/main.cce1a095.chunk.js"
+    "static/js/main.7e763f4b.chunk.js"
   ]
 }
