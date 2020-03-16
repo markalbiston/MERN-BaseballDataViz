@@ -1,3 +1,5 @@
+// import axios from 'axios';
+// import {useState} from 'react';
 
 const mongoose = require('mongoose');
 const Team = require('../models/team.model');
@@ -1184,22 +1186,29 @@ const players = [
     },
 ];
 
-mongoose.connect("mongodb://localhost/baseballdb5", {
+mongoose.connect("mongodb://localhost/baseballdb9", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
     .then(() => console.log("Established a connection to the database"))
     .catch(err => console.log("Something went wrong when connecting to the database!", err));
 
-
-teams.map(data => {
-    const team = new Team(data);
-    team.save();
-});
+var db = mongoose.connection;
 
 
-players.map(data => {
-    const player = new Player(data);
-    player.save();
-});
-
+db.collections.players.countDocuments({}, function( err, count ){
+    if(count === 0){
+        players.map(data => {
+            const player = new Player(data);
+            player.save();
+        });
+    };
+})
+db.collections.teams.countDocuments({}, function( err, count ){
+    if(count === 0){
+        teams.map(data => {
+            const team = new Team(data);
+            team.save();
+        });
+    };
+})
