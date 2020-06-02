@@ -1186,7 +1186,7 @@ const players = [
     },
 ];
 
-mongoose.connect("mongodb://localhost/baseballdb9", {
+mongoose.connect("mongodb://localhost/baseballdb10", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
