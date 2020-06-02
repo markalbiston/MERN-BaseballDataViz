@@ -20,7 +20,7 @@ const teams = [
         avg_ticket_cost: 58,
         payroll: 227854349,
         offense: {
-            plate_appearances: 6059,
+            plate_appearances: 6059, 
             at_bats: 5458,
             runs_scored: 680,
             hits: 1378,
