@@ -16,7 +16,7 @@ const teams = [
         wins: 84,
         losses: 78,
         hex_color: "#003087",
-        avatar: "https://www.stickpng.com/assets/images/584d4b6e0a44bd1070d5d493.png",
+        avatar: "https://purepng.com/public/uploads/medium/new-york-yankees-logo-blue-vlm.png",
         avg_ticket_cost: 58,
         payroll: 227854349,
         offense: {
@@ -46,7 +46,7 @@ const teams = [
         wins: 93,
         losses: 69,
         hex_color: "#BD3039",
-        avatar: "https://www.stickpng.com/assets/images/584d49df0a44bd1070d5d480.png",
+        avatar: "https://purepng.com/public/uploads/medium/boston-red-sox-logo-0ue.png",
         avg_ticket_cost: 105,
         payroll: 199864178,
         offense: {
@@ -76,7 +76,7 @@ const teams = [
         wins: 68,
         losses: 94,
         hex_color: "#8FBCE6",
-        avatar: "https://www.stickpng.com/assets/images/584d48780a44bd1070d5d469.png",
+        avatar: "https://purepng.com/public/uploads/medium/tampa-bay-rays-logo-if3.png",
         avg_ticket_cost: 64,
         payroll: 64120323,
         offense: {
@@ -106,7 +106,7 @@ const teams = [
         wins: 89,
         losses: 73,
         hex_color: "#DF4601",
-        avatar: "https://www.stickpng.com/assets/images/584d48220a44bd1070d5d465.png",
+        avatar: "https://purepng.com/public/uploads/medium/baltimore-orioles-logo-7nq.png",
         avg_ticket_cost: 52,
         payroll: 147943713,
         offense: {
@@ -166,7 +166,7 @@ const teams = [
         wins: 94,
         losses: 67,
         hex_color: "#E31937",
-        avatar: "https://www.stickpng.com/assets/images/584d4a550a44bd1070d5d486.png",
+        avatar: "https://purepng.com/public/uploads/medium/cleveland-indians-logo-vko.png",
         avg_ticket_cost: 42,
         payroll: 98006899,
         offense: {
@@ -196,7 +196,7 @@ const teams = [
         wins: 81,
         losses: 81,
         hex_color: "#004687",
-        avatar: "https://www.stickpng.com/assets/images/584d44ed0a44bd1070d5d446.png",
+        avatar: "https://purepng.com/public/uploads/medium/kansas-city-royals-logo-bn7.png",
         avg_ticket_cost: 65,
         payroll: 137606125,
         offense: {
@@ -226,7 +226,7 @@ const teams = [
         wins: 86,
         losses: 75,
         hex_color: "#0C2340",
-        avatar: "https://www.stickpng.com/assets/images/584d44640a44bd1070d5d43c.png",
+        avatar: "https://purepng.com/public/uploads/medium/detroit-tigers-logo-tjq.png",
         avg_ticket_cost: 58,
         payroll: 199525500,
         offense: {
@@ -256,7 +256,7 @@ const teams = [
         wins: 78,
         losses: 84,
         hex_color: "#27251F",
-        avatar: "https://www.stickpng.com/assets/images/584d4aff0a44bd1070d5d48d.png",
+        avatar: "https://purepng.com/public/uploads/medium/chicago-white-sox-logo-vmj.png",
         avg_ticket_cost: 40,
         payroll: 115998667,
         offense: {
@@ -286,7 +286,7 @@ const teams = [
         wins: 59,
         losses: 103,
         hex_color: "#002B5C",
-        avatar: "https://www.stickpng.com/assets/images/584d47a70a44bd1070d5d45c.png",
+        avatar: "https://purepng.com/public/uploads/medium/minnesota-twins-logo-sd2.png",
         avg_ticket_cost: 57,
         payroll: 104591200,
         offense: {
@@ -316,7 +316,7 @@ const teams = [
         wins: 74,
         losses: 88,
         hex_color: "#BA0021",
-        avatar: "https://www.stickpng.com/assets/images/584d498d0a44bd1070d5d47b.png",
+        avatar: "https://purepng.com/public/uploads/medium/los-angeles-angels-logo-wgl.png",
         avg_ticket_cost: 35,
         payroll: 166831190,
         offense: {
@@ -346,7 +346,7 @@ const teams = [
         wins: 84,
         losses: 78,
         hex_color: "#EB6E1F",
-        avatar: "https://www.stickpng.com/assets/images/584d493b0a44bd1070d5d477.png",
+        avatar: "https://purepng.com/public/uploads/medium/houston-astros-logo-xwi.png",
         avg_ticket_cost: 44,
         payroll: 96643000,
         offense: {
@@ -376,7 +376,7 @@ const teams = [
         wins: 86,
         losses: 76,
         hex_color: "#005C5C",
-        avatar: "https://www.stickpng.com/assets/images/584d467c0a44bd1070d5d44c.png",
+        avatar: "https://purepng.com/public/uploads/medium/seattle-mariners-logo-chf.png",
         avg_ticket_cost: 59,
         payroll: 144996858,
         offense: {
@@ -406,7 +406,7 @@ const teams = [
         wins: 69,
         losses: 93,
         hex_color: "#003831",
-        avatar: "https://www.stickpng.com/assets/images/584d48d40a44bd1070d5d470.png",
+        avatar: "https://purepng.com/public/uploads/medium/oakland-athletics-logo-xl0.png",
         avg_ticket_cost: 55,
         payroll: 85823390,
         offense: {
@@ -436,7 +436,7 @@ const teams = [
         wins: 95,
         losses: 67,
         hex_color: "#003278",
-        avatar: "https://www.stickpng.com/assets/images/584d46dc0a44bd1070d5d452.png",
+        avatar: "https://purepng.com/public/uploads/medium/texas-rangers-logos-4th.png",
         avg_ticket_cost: 49,
         payroll: 161246720,
         offense: {
@@ -466,7 +466,7 @@ const teams = [
         wins: 87,
         losses: 75,
         hex_color: "#002D72",
-        avatar: "https://www.stickpng.com/assets/images/584d431b0a44bd1070d5d428.png",
+        avatar: "https://purepng.com/public/uploads/medium/new-york-mets-logo-qeo.png",
         avg_ticket_cost: 72,
         payroll: 130612115,
         offense: {
@@ -496,7 +496,7 @@ const teams = [
         wins: 95,
         losses: 67,
         hex_color: "#AB0003",
-        avatar: "https://www.stickpng.com/assets/images/584d42180a44bd1070d5d418.png",
+        avatar: "https://purepng.com/public/uploads/medium/washington-nationals-6gi.png",
         avg_ticket_cost: 51,
         payroll: 146686385,
         offense: {
@@ -526,7 +526,7 @@ const teams = [
         wins: 71,
         losses: 91,
         hex_color: "#E81828",
-        avatar: "http://assets.stickpng.com/thumbs/584d42a70a44bd1070d5d41f.png",
+        avatar: "https://purepng.com/public/uploads/medium/st-louis-cardinals-logo-wyw.png",
         avg_ticket_cost: 59,
         payroll: 103346668,
         offense: {
@@ -586,7 +586,7 @@ const teams = [
         wins: 68,
         losses: 93,
         hex_color: "#CE1141",
-        avatar: "https://www.stickpng.com/assets/images/584d43fb0a44bd1070d5d435.png",
+        avatar: "https://purepng.com/public/uploads/medium/atlanta-braves-logos-714.png",
         avg_ticket_cost: 36,
         payroll: 84821541,
         offense: {
@@ -616,7 +616,7 @@ const teams = [
         wins: 103,
         losses: 58,
         hex_color: "#0E3386",
-        avatar: "https://www.stickpng.com/assets/images/584d41b10a44bd1070d5d411.png",
+        avatar: "https://purepng.com/public/uploads/medium/chicago-cubs-logo-ekl.png",
         avg_ticket_cost: 125,
         payroll: 167444167,
         offense: {
@@ -646,7 +646,7 @@ const teams = [
         wins: 73,
         losses: 89,
         hex_color: "#B6922E",
-        avatar: "https://www.stickpng.com/assets/images/584d40b50a44bd1070d5d3fe.png",
+        avatar: "https://purepng.com/public/uploads/medium/milwaukee-brewers-logo-zk9.png",
         avg_ticket_cost: 43,
         payroll: 62964319,
         offense: {
@@ -676,7 +676,7 @@ const teams = [
         wins: 68,
         losses: 94,
         hex_color: "#C6011F",
-        avatar: "https://www.stickpng.com/assets/images/584d41520a44bd1070d5d40b.png",
+        avatar: "https://purepng.com/public/uploads/medium/cincinnati-reds-logo-tms.png",
         avg_ticket_cost: 44,
         payroll: 93171452,
         offense: {
@@ -706,7 +706,7 @@ const teams = [
         wins: 78,
         losses: 83,
         hex_color: "#FDB827",
-        avatar: "https://www.stickpng.com/assets/images/584d40380a44bd1070d5d3f6.png",
+        avatar: "https://purepng.com/public/uploads/medium/pittsburgh-pirates-zcc.png",
         avg_ticket_cost: 59,
         payroll: 99960499,
         offense: {
@@ -736,7 +736,7 @@ const teams = [
         wins: 86,
         losses: 76,
         hex_color: "#C41E3A",
-        avatar: "https://www.stickpng.com/assets/images/584d3fc80a44bd1070d5d3ed.png",
+        avatar: "https://purepng.com/public/uploads/medium/st-louis-cardinals-logo-e4r.png",
         avg_ticket_cost: 49,
         payroll: 149186000,
         offense: {
@@ -766,7 +766,7 @@ const teams = [
         wins: 87,
         losses: 75,
         hex_color: "#FD5A1E",
-        avatar: "https://www.stickpng.com/assets/images/584d3d8e0a44bd1070d5d3c2.png",
+        avatar: "https://purepng.com/public/uploads/medium/san-francisco-giants-ou9.png",
         avg_ticket_cost: 60,
         payroll: 171464943,
         offense: {
@@ -796,7 +796,7 @@ const teams = [
         wins: 91,
         losses: 71,
         hex_color: "#005A9C",
-        avatar: "https://www.stickpng.com/assets/images/584d3e8a0a44bd1070d5d3d7.png",
+        avatar: "https://logos-download.com/wp-content/uploads/2016/04/Los_Angeles_Dodgers_logo_blue-700x700.png",
         avg_ticket_cost: 38,
         payroll: 253639162,
         offense: {
@@ -826,7 +826,7 @@ const teams = [
         wins: 75,
         losses: 87,
         hex_color: "#33006F",
-        avatar: "https://www.stickpng.com/assets/images/584d3edd0a44bd1070d5d3dc.png",
+        avatar: "https://purepng.com/public/uploads/medium/colorado-rockies-logo-v0m.png",
         avg_ticket_cost: 42,
         payroll: 113242571,
         offense: {
@@ -886,7 +886,7 @@ const teams = [
         wins: 69,
         losses: 93,
         hex_color: "#A71930",
-        avatar: "https://www.stickpng.com/assets/thumbs/584d3f500a44bd1070d5d3e4.png",
+        avatar: "https://purepng.com/public/uploads/medium/arizona-diamondbacks-logo-ogw.png",
         avg_ticket_cost: 50,
         payroll: 98657436,
         offense: {
@@ -916,7 +916,7 @@ const teams = [
         wins: 81,
         losses: 81,
         hex_color: "#747474",
-        avatar: "https://www.stickpng.com/assets/images/584d4c0e0a44bd1070d5d495.png",
+        avatar: "https://purepng.com/public/uploads/medium/mlg-logo-without-name-asb.png",
         avg_ticket_cost: 55.83,
         payroll: 131261430,
         offense: {
